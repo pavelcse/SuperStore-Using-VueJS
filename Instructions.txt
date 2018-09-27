@@ -1,0 +1,3 @@
+*********** For run this project **************
+1. open api-server folder. then open command prompt. now command: node index.js. minimize it, don't close.
+1. open superstore folder. then open command prompt. now command: npm run dev. minimize it, don't close.
